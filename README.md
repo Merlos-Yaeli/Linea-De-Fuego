@@ -9,7 +9,7 @@ Mundo 3 – Cosmos: Gravedad Cero (dificultad 8) y Agujero Negro (dificultad 10)
 
 En el proceso, se ganarán monedas, las cuales se podrán utilizar para compras de herramientas especiales, en poderes únicos o en adquisiciones de nuevos vehículos.
 
-#Fase 1. Analisis
+# Fase 1. Analisis
 Requerimientos Funcionales
 Progreso de niveles: lista ordenada de 6 niveles; desbloqueo por condicionales según puntaje mínimo y estado del nivel anterior.
 Activación de atajos: detección de zonas ocultas (cascada, rampa, portal) que otorgan ventajas inmediatas (reducción de tiempo o teletransporte).
@@ -24,13 +24,13 @@ Arquitectura de memoria: segmentación estricta de variables globales (estados m
 Integridad de datos: datos fijos de herramientas/inventario almacenados en tuplas inmutables para evitar alteraciones en tiempo de ejecución.
 Retroalimentación auditiva en tiempo real: ajuste dinámico del ritmo de la música en la última vuelta y efectos de sonido inmediatos ante acciones del jugador.
 
-#Fase 2. Diseño
+# Fase 2. Diseño
 Diagrama de Flujo; "Línea de Fuego"
 
-#Fase 3. Desarrollo / Código
+# Fase 3. Desarrollo / Código
 Programación Orientada a Objetos (Poo) | Videojuego
 
-#Fase 4. Presentación
+# Fase 4. Presentación
 
 
 Programador Junior.
