@@ -14,6 +14,7 @@ En el proceso, se ganarán monedas, las cuales se podrán utilizar para compras 
 # Fase 1. Analisis
 Requerimientos Funcionales:
 <br>
+<br>
 Progreso de niveles: lista ordenada de 6 niveles; desbloqueo por condicionales según puntaje mínimo y estado del nivel anterior.<br>
 Activación de atajos: detección de zonas ocultas (cascada, rampa, portal) que otorgan ventajas inmediatas (reducción de tiempo o teletransporte).<br>
 Mecánicas de jefes: cada mundo incluye un jefe IA con ataque único.<br>
@@ -22,6 +23,7 @@ Sistema de recompensas: al finalizar la carrera, un ciclo calcula y otorga autom
 <br>
 <br>
 Requerimientos No Funcionales
+<br>
 <br>
 Robustez y tolerancia a fallos: manejo de excepciones (comandos inválidos, archivos dañados) sin congelar ni cerrar el juego.<br>
 Usabilidad para el público objetivo: colores vibrantes y sonidos cómicos/caricaturescos para mantener el interés de niños de 8-12 años y evitar frustración.<br>
