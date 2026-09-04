@@ -4,10 +4,9 @@ Línea de Fuego es un juego de carreras (racing game) orientado a niños de 8 a 
 Estructura general:<br>
 El juego se organiza en 3 mundos, cada uno con 2 mapas y 9 niveles cada mapa:
 <br>
-Mundo 1 – Isla Tropical: Playa Alegre (dificultad 2) y Selva Enredada (dificultad 4).
-<br> 
-Mundo 2 – Metrópolis Ciberpunk: Neón City (dificultad 6) y Autopista Elevada (dificultad 7).
 <br>
+Mundo 1 – Isla Tropical: Playa Alegre (dificultad 2) y Selva Enredada (dificultad 4).<br> 
+Mundo 2 – Metrópolis Ciberpunk: Neón City (dificultad 6) y Autopista Elevada (dificultad 7).<br>
 Mundo 3 – Cosmos: Gravedad Cero (dificultad 8) y Agujero Negro (dificultad 10).<br>
 <br>
 En el proceso, se ganarán monedas, las cuales se podrán utilizar para compras de herramientas especiales, en poderes únicos o en adquisiciones de nuevos vehículos.
