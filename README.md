@@ -38,6 +38,4 @@ Diagrama de Flujo; "Línea de Fuego"
 Programación Orientada a Objetos (Poo) | Videojuego
 
 # Fase 4. Presentación
-
-
-Programador Junior.
+Soy Ebony Interiano Programador Jr, con conocimiento y buenas practicas en POO.
