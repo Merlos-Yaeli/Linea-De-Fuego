@@ -18,14 +18,16 @@ Mundo 3 – Cosmos: Gravedad Cero (dificultad 8) y Agujero Negro (dificultad 10)
 En el proceso, se ganarán monedas, las cuales se podrán utilizar para compras de herramientas especiales, en poderes únicos o en adquisiciones de nuevos vehículos.
 
 Controles:
-Tecla	Acción
-W	Acelerar a fondo
-A / D	Esquivar a la izquierda / derecha
-S	Frenar (más control, menos velocidad)
-ESPACIO	Usar Nitro Boost
-E	Usar Escudo de Plasma
-Q	Usar Misil Teledirigido
-X	Abandonar la carrera
+<br>
+<br>
+Tecla	Acción <br>
+W	Acelerar a fondo <br>
+A / D	Esquivar a la izquierda / derecha <br>
+S	Frenar (más control, menos velocidad) <br>
+ESPACIO	Usar Nitro Boost <br>
+E	Usar Escudo de Plasma <br>
+Q	Usar Misil Teledirigido <br>
+X	Abandonar la carrera <br>
 
 # Fase 1. Analisis
 Requerimientos Funcionales:
