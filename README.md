@@ -1,3 +1,9 @@
+# Interiano Ebony
+Soy Programador Jr, con conocimiento y buenas practicas en POO.
+
+# Proyecto Integrador (VIDEO JUEGO)
+Proyecto intedrador basado en la estructura de un video juego, realizado por medio del ciclo de vida del software
+
 # Línea de Fuego
 Línea de Fuego es un juego de carreras (racing game) orientado a niños de 8 a 12 años, con una estética vibrante y mecánicas pensadas para ser accesibles pero progresivamente desafiantes. Cada mundo tiene un jefe de carrera.
 #
@@ -38,5 +44,3 @@ Diagrama de Flujo; "Línea de Fuego"
 Programación Orientada a Objetos (Poo) | Videojuego
 
 # Fase 4. Presentación
-# Interiano Ebony
-Soy Programador Jr, con conocimiento y buenas practicas en POO.
